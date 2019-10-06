@@ -1,0 +1,164 @@
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\FileUploadNamer.dll.config
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\FileUploadNamer.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\FileUploadNamer.pdb
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\csc.exe
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\csc.exe.config
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\csc.rsp
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\csi.exe
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\csi.exe.config
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\csi.rsp
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Console.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\vbc.exe
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\vbc.exe.config
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\vbc.rsp
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\Antlr3.Runtime.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Net.Http.Formatting.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Helpers.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Http.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Http.WebHost.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Mvc.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Optimization.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Razor.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\WebGrease.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\Newtonsoft.Json.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Net.Http.Formatting.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Helpers.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Http.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Http.WebHost.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Mvc.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Optimization.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.Razor.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.csproj.CopyComplete
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.dll
+C:\Users\Acer\source\repos\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.pdb
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\FileUploadNamer.dll.config
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\FileUploadNamer.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\FileUploadNamer.pdb
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\csc.exe
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\csc.exe.config
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\csc.rsp
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\csi.exe
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\csi.exe.config
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\csi.rsp
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.AppContext.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Collections.Immutable.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Console.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.Compression.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.FileSystem.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.IO.Pipes.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Reflection.Metadata.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.AccessControl.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Claims.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.ValueTuple.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Xml.XPath.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\vbc.exe
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\vbc.exe.config
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\vbc.rsp
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\VBCSCompiler.exe
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\roslyn\VBCSCompiler.exe.config
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\Antlr3.Runtime.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\Microsoft.Web.Infrastructure.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\Newtonsoft.Json.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Net.Http.Formatting.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Helpers.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Http.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Http.WebHost.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Mvc.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Optimization.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Razor.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.Deployment.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.Razor.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\WebGrease.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\Newtonsoft.Json.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Net.Http.Formatting.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Helpers.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Http.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Http.WebHost.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Mvc.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Optimization.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.Razor.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.Deployment.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\System.Web.WebPages.Razor.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\Antlr3.Runtime.pdb
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.csprojAssemblyReference.cache
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.csproj.CoreCompileInputs.cache
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.csproj.CopyComplete
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.dll
+G:\Tech Talk\FileUploadNamer\FileUploadNamer\obj\Debug\FileUploadNamer.pdb
